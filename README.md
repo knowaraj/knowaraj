@@ -1,3 +1,4 @@
+![logo](https://github.com/knowaraj/knowaraj/blob/main/Banner.png)
 <h1 align="center">Hi , I'm Araj Dulal</h1>
 <h3 align="center">A Learner who want to be a Programmer.</h3>
 
