@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Araj Dulal</h1>
+<h1 align="center">Hi , I'm Araj Dulal</h1>
 <h3 align="center">A Learner who want to be a Programmer.</h3>
 
 - 🌱 I’m currently learning **C,C++,pYTHON**
