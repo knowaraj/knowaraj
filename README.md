@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Araj Dulal</h1>
 <h3 align="center">A Learner who want to be a Programmer.</h3>
-<img align="right" alt="coding" witdh="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&psig=AOvVaw23MWk0jEP8Tshm9RVUODW6&ust=1692111201356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCuh9Gz3IADFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **C,C++,pYTHON**
 
