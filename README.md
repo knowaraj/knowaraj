@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sendmailtoaraj@gmail.com**
 
-- ⚡ Fun fact **I am Batman.**
+- ⚡ Fun fact **𝓣𝓻𝓮𝓪𝓽 𝓜𝓮 𝓛𝓲𝓴𝓮 𝓦𝓱𝓲𝓽𝓮 𝓣𝓮𝓮.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
