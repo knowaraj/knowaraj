@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **𝓣𝓻𝓮𝓪𝓽 𝓜𝓮 𝓛𝓲𝓴𝓮 𝓦𝓱𝓲𝓽𝓮 𝓣𝓮𝓮.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://fb.com/know.araj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="know.araj" height="30" width="40" /></a>
 <a href="https://instagram.com/know_araj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="know_araj" height="30" width="40" /></a>
