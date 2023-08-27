@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++,pYTHON**
 
-- 👯 I’m looking to collaborate on **C,C++**
+- 👯 I’m looking to collaborate on **C and C++**
 
 - 📫 How to reach me **sendmailtoaraj@gmail.com**
 
