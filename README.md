@@ -4,7 +4,7 @@
 
 - 💻 I’m currently learning **C++,!pYTHON (HOLD)**
 
-- 👯 I'd love to work with your on **C and C++**
+- 👯 I'd love to work with you on **C and C++**
 
 - 📩 Reach me through : **sendmailtoaraj@gmail.com**
 
