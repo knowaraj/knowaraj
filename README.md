@@ -2,11 +2,11 @@
 <h1 align="center">Hi , I'm Araj Dulal</h1>
 <h3 align="center">A Learner who want to be a Programmer.</h3>
 
-- 💻 I’m currently learning **C++,pYTHON**
+- 💻 I’m currently learning **C++,!pYTHON (HOLD)**
 
-- 👯 I’m looking to collaborate on **C and C++**
+- 👯 I'd love to work with your on **C and C++**
 
-- 📫 How to reach me **sendmailtoaraj@gmail.com**
+- 📩 Reach me through : **sendmailtoaraj@gmail.com**
 
 - **𝓣𝓻𝓮𝓪𝓽 𝓜𝓮 𝓛𝓲𝓴𝓮 𝓦𝓱𝓲𝓽𝓮 𝓣𝓮𝓮.**
 
