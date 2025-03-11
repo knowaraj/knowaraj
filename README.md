@@ -2,9 +2,9 @@
 <h1 align="center">Hi , I'm Araj Dulal</h1>
 <h3 align="center">A Learner who want to be a Programmer.</h3>
 
-- 💻 I’m currently learning **Java Basic**
+- 💻 I’m currently learning **JS**
 
-- 🤝 I'd love to learn work with you on **C and C++ Or Anything**
+- 🤝 I'd love to learn work with you on **SpringBoot**
 
 - 📩 Reach me through : **sendmailtoaraj@gmail.com**
 
