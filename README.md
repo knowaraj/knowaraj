@@ -18,9 +18,6 @@
   <a href="https://instagram.com/know_araj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="know_araj" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/knowaraj" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="knowaraj" height="30" width="40" />
-</a>
 </p>
 
 
