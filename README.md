@@ -4,7 +4,7 @@
 
 - 💻 I’m currently learning **JS**
 
-- 🤝 I'd love to learn work with you on **SpringBoot**
+- 🤝 I'd love to learn work with you on **Next.js**
 
 - 📩 Reach me through : **sendmailtoaraj@gmail.com**
 
