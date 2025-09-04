@@ -8,7 +8,7 @@
 
 - 📩 Reach me through : **sendmailtoaraj@gmail.com**
 
-- *:)))*
+- *:))*
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
