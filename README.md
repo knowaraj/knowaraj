@@ -2,9 +2,9 @@
 <h1 align="center">Hi , I'm Araj Dulal</h1>
 <h3 align="center">A Learner who want to be a Programmer.</h3>
 
-- 💻 I’m currently learning **JS**
+- 💻 I’m currently learning **TS**
 
-- 🤝 I'd love to learn work with you on **Next.js**
+- 🤝 I'd love to learn work with you on **React/Next/Nest**
 
 - 📩 Reach me through : **sendmailtoaraj@gmail.com**
 
